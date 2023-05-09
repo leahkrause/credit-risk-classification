@@ -6,7 +6,7 @@
 
 * The purpose of this analysis was to evaluate loan risk
 * The model was based off of historical lending activity from a peer-to-peer lending services company
-* Using a logistic regression model, we are predicting the healthhy loan and high-risk loans using the creditworthiness of borrowers
+* Using a logistic regression model, we are predicting the healthy loan and high-risk loans using the creditworthiness of borrowers
 * First, I split the data into training and test sets. I used a logistic regression model with the original data, then predicted a logistic regression model with resampled training data 
 
 
